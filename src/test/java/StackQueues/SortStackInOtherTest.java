@@ -6,6 +6,8 @@ import java.util.Stack;
 
 import org.junit.Test;
 
+import StacksQueues.SortStackInOtherTestSolution;
+
 public class SortStackInOtherTest {
 
 	@Test

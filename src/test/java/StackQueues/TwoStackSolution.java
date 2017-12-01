@@ -2,6 +2,8 @@ package StackQueues;
 
 import java.util.Stack;
 
+import StacksQueues.SortStackInOtherTestSolution;
+
 public class TwoStackSolution implements SortStackInOtherTestSolution {
 
 	public Stack<Integer> sort(Stack<Integer> unsortedStack) {

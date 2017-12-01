@@ -11,8 +11,8 @@ public class DuplicatesRemoverTest {
 
 	@Test
 	public void shouldRemoveDuplicatedCharacters() {
-		String testCase = "aaaaaaaaaaa";
-		String expectedString = "a";
+		String testCase = "perrrrrro";
+		String expectedString = "pero";
 		
 		DuplicateCharactersRemover remover = new DuplicatesRemover();
 		String result = remover.remove(testCase);
